@@ -1,0 +1,3 @@
+[submodule "longlm"]
+	path = longlm
+	url = https://github.com/thu-coai/LOT-LongLM.git
